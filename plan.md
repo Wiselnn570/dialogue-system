@@ -1,74 +1,42 @@
-# Welcome to your team's workspace
+# 大创计划
 
-Congratulations! :tada: You have created a team workspace, where all team members collaborate on their shared notes.
+## 一、项目简介（研究内容、目的意义、具体目标、国内外研究现状分析及评价等）
 
-[toc]
++ 研究内容、目的意义、具体目标，这三部分每个人都去查查资料（资料都可以发群里，同步信息），然后每个人都写一些内容，之后汇总交流。
+  
+    +ddl：下周三（10.19）
 
-
-## Team roles and note permission
-
-All members in the workspace have read access to every note in it.
-
-Only writers and admins have write access, and only admins can delete a team note.
-
-Team members receive notifications when someone else edit or mention them in a team note. 
-
-Team members are all considered **Owners** to notes in the workspace when configuring note permissions.
-
-## How do I invite team members?
-
-1. In the Overview page, click the :gear: at the right of **Team space**, and click **Team settings**.
-<img src="https://hackmd.io/_uploads/HyJfG7jYK.png" width=300 style="display:block;margin:30px auto" />
-
-2. In **Team Settings** page, 
-	1. Fill in the HackMD username or the email address of the member you'd like to add. S/he will receive an invitation email and join the workspace by following the instructions.
-	3. Set her/his role.
-		- Admin: can manage members and billings (with a billing role), read and write notes.
-		- Writer: read and write notes.
-		- Reader: read notes.
-	4. Click **Add**.
-
-:::warning
-:bulb: This role takes a higher priority to the   default Owners of the note (that is, all workspace members). So a Reader member can't write a note in the workspace even if it's set to "Owners can write".
-:::
-
-<img src="https://hackmd.io/_uploads/ryxdzmjtt.png" width=600 style="display:block;margin: 30px auto" />
-
-Invite more members to get the most out of your Team Workspace.
-
-If you have met the limit of workspace members, you can [puchase more](https://hackmd.io/c/tutorials/%2F%40docs%2Funlock-team-member-limit?utm_source=prebuilt-note&utm-medium=inline-link).
-
-## How do I work with someone not in my Team Workspace?
-
-Invite them as invitees on the note. Here's [how](https://hackmd.io/c/tutorials/%2Fs%2Finvite).
-
-## How do I backup the notes?
-
-In **Team settings** page, navigate to **Team notes** and click **Download all notes**.
-
-<img src="https://hackmd.io/_uploads/rygDBQoFY.png" width=300 style="display:block;margin: 30px auto" />
-
-## How do I set default permissions?
-
-:::info
-This is a Prime only feature.
-:::
-
-Set default permissions so you don't have to worry if any of your team members would ever forgot to set them properly. 
-
-1. Set default permissions of the notes in **Team Settings** > **Team notes**.
-2. Navigate down and click **Save**.
-<img src="https://hackmd.io/_uploads/Syo3rXoKF.png" width=600 style="display:block;margin: 30px auto" />
++ 国内外研究现状我先去找找文献，之后汇总后会传到群里。
 
 
-## How do I switch between a public or private team?
+## 二、研究技术路线及可行性分析
 
-There is no limit counts to members of a Public Team, so it's great for sharing knowledge and working with the public.
++ 待定
 
-For the greater good of our communities, HackMD lets you switch between the two, so you can switch between them as your community grows. Here's [how](https://hackmd.io/@docs/switch-public-private-team) to switch.
+## 三、研究基础（对项目的参与动机、已有知识储备、相关研究和训练基础）
 
-# How to get in touch?
++ 这部分每个人可以参考模板，把自己的清空写完。
+    
+    + 不设ddl，应该不花时间。
 
-Feel free to ping us via:
-- :mailbox: support@hackmd.io
-- Mention `@hackmdio` on [Twitter](https://twitter.com/hackmdio)
+## 四、研究计划和进度（就文献查询、社会调查、方案设计、实验研究、数据处理、研制开发、撰写论文或研究报告、结题和答辩、成果推广、论文发表、专利申请等工作逐项计划时间，时间节点精确到月份）
+
++ 这部分在大致确定技术路线后，我会做一张表，如下：
+
+![](https://i.imgur.com/5ajWyIl.png)
+
+## 五、项目研究支撑条件（项目所依托的重点实验室（中心、平台）、双创平台、课题组等各类单位能提供的直接支持项目开展的软硬件设施和其他校内外资源）
+
++ 这部分等老师给信息。
+
+
+## 10.15任务总结：
+
++ 研究内容、目的意义、具体目标（每个人都需要做）
++ 尽量把survey的中文概述看看吧。
++ 待定
+
+
+## 
+
+---
