@@ -3,7 +3,7 @@
 ## part 1 abstract .
 
 + 目的：构建一个Tod + oDD 的对话系统。
-+ 提出了一个新的数据集（基于multiWOZ。
++ 提出了一个新的数据集FusedChat（基于multiWOZ）。
 + baseline分为两类：一是单独训练一个分类器决定response是tod还是odd形式，称为classification-based two-stage model；二是直接使用一个end2end模型，该模型预测response之前，会先预测response类型，称为 two-in-one fused model。
 
 
