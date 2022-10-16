@@ -55,7 +55,7 @@ Inter-mode Dependency：这里建议直接看论文，目的时加强重写的to
 
 ## FusedChat as a new benchmark
 
-结果没什么好说的，因为是新的数据集，所以没有参考。但是就 ODD-grounded TODs in FusedChat 这个结果来看，感觉它的inform、success、bleu都离目前比较好的模型有一段距离（比如bart、T5这些肯定是比GPT2好的）
+结果没什么好说的，因为是新的数据集，所以没有参考。但是就 ODD-grounded TODs in FusedChat 这个结果来看，感觉它的inform、success、bleu都离目前比较好的模型（在multiWOZ数据集上）有一段距离（比如bart、T5这些肯定是比GPT2好的）
 
 
 ## Discussions and Future Work
