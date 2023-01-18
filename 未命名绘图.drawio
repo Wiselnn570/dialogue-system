@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T11:48:56.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="ncH02QqfVPW70bY0TSgm" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T11:49:46.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="YTXV3IHagGg8U_cxel5a" version="20.8.5" type="github">
   <diagram id="zIpmrHKljPA6NFoTWR1B" name="第 1 页">
     <mxGraphModel dx="989" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
             <mxPoint x="430.00000000000006" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2sbJVuLxVVdnoPz6O2E-21" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center;&quot;&gt;KG-Adapter&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FF99CC;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="W2sbJVuLxVVdnoPz6O2E-21" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center;&quot;&gt;SK-Adapter&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FF99CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="365" y="280" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W2sbJVuLxVVdnoPz6O2E-61" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;endArrow=classic;endFill=0;fontStyle=1;strokeColor=#000000;endSize=0;startSize=4;" parent="1" edge="1">
@@ -144,7 +144,7 @@
             <mxPoint x="409.77" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2sbJVuLxVVdnoPz6O2E-20" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center;&quot;&gt;KG-Adapter&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCE6;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="W2sbJVuLxVVdnoPz6O2E-20" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: center;&quot;&gt;SK-Adapter&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCE6;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="344" y="290" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W2sbJVuLxVVdnoPz6O2E-65" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;endArrow=classic;endFill=0;fontStyle=1;strokeColor=#000000;endSize=0;startSize=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="W2sbJVuLxVVdnoPz6O2E-20" edge="1">
@@ -164,7 +164,7 @@
             <mxPoint x="385" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2sbJVuLxVVdnoPz6O2E-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;KG-Adapter&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fillStyle=auto;gradientDirection=north;fontColor=#333333;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="W2sbJVuLxVVdnoPz6O2E-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;SK-Adapter&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fillStyle=auto;gradientDirection=north;fontColor=#333333;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="320" y="300" width="74" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W2sbJVuLxVVdnoPz6O2E-27" value="&lt;b&gt;Add &amp;amp; Norm&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=2;fontFamily=Times New Roman;fontSize=13;fillColor=#f9f7ed;" parent="1" vertex="1">
